@@ -90,14 +90,20 @@ I have a unique background in **Theoretical Physics** which gives me a strong an
 ### 📫 **Connect with Me**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-azam-320a98200" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ahmedamrmohamedazam@gmail.com">
+  <a href="mailto:aa6035283@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Ahmed2300">
-    <img src="https://img.shields.io/badge/Portfolio-website-orange?style=for-the-badge&logo=rss&logoColor=white" alt="Portfolio"/>
+  <a href="https://ahmed2300.github.io/MYCV.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Global-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://community.appinventor.mit.edu/u/black_knight/summary" target="_blank">
+    <img src="https://img.shields.io/badge/App_Inventor-Profile-green?style=for-the-badge&logo=android&logoColor=white" alt="App Inventor"/>
+  </a>
+  <a href="https://wa.me/201016693794" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
