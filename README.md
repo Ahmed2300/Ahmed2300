@@ -74,15 +74,22 @@ I have a unique background in **Theoretical Physics** which gives me a strong an
 ### 📊 **GitHub Stats**
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed2300&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+</div>
+
+<div align="center">
+
   <a href="https://github.com/Ahmed2300">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ahmed2300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ahmed2300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
   </a>
   <a href="https://github.com/Ahmed2300">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2300&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2300&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
   </a>
-  <br clear="both"/>
+
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed2300&theme=tokyonight&hide_border=true" alt="Ahmed's Streak" width="100%"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed2300&theme=tokyonight&hide_border=true" alt="Ahmed's Streak" />
+
 </div>
 
 ---
