@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](assets/banner.png)
+![Profile Banner](assets/banner_plush.png)
 
 # Hi there, I'm Ahmed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -22,7 +22,7 @@ I have a unique background in **Theoretical Physics** which gives me a strong an
     - **Flutter Developer** (2019–Present): Developing high-performance cross-platform apps.
     - **Front-End Developer** (2024–Present): Building responsive, accessible web interfaces.
     - **Physics Educator** (2019–2023): Simplifying complex scientific concepts.
-- � **Currently working on**: **Naptah** (Plant health monitoring) & Advanced Mobile Apps.
+- 🔭 **Currently working on**: **Naptah** (Plant health monitoring) & Advanced Mobile Apps.
 - 🌱 **Learning**: System Design, Cloud Architecture, and AI Integration.
 - 🎓 **Education**: Bachelor's in **Physical Sciences**, Mansoura University (*Very Good with Honour*).
 - ⚡ **Fun fact**: I love turning complex problems into simple, beautiful code.
@@ -32,7 +32,7 @@ I have a unique background in **Theoretical Physics** which gives me a strong an
 ### 🛠️ **Tech Stack & Specialties**
 
 <div align="center">
-  <img src="assets/showcase.png" width="80%" alt="Mobile AI Showcase" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
+  <img src="assets/showcase_plush.png" width="80%" alt="Mobile AI Showcase" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
 </div>
 
 <br/>
@@ -73,17 +73,16 @@ I have a unique background in **Theoretical Physics** which gives me a strong an
 
 ### 📊 **GitHub Stats**
 
-
 <div align="center">
-  <img src="assets/stats_trophies.png" alt="Plush Trophy Shelf" width="90%" style="border-radius: 15px;"/>
+  <img src="assets/stats_trophies_plush.png" alt="Plush Trophy Shelf" width="90%" style="border-radius: 15px;"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-  <img src="assets/stats_overview.png" height="180" alt="Plush Stats Dashboard" style="border-radius: 15px; margin: 5px;"/>
-  <img src="assets/stats_languages.png" height="180" alt="Plush Languages Pie" style="border-radius: 15px; margin: 5px;"/>
+  <img src="assets/stats_overview_plush.png" height="180" alt="Plush Stats Dashboard" style="border-radius: 15px; margin: 5px;"/>
+  <img src="assets/stats_languages_plush.png" height="180" alt="Plush Languages Pie" style="border-radius: 15px; margin: 5px;"/>
 
   <br/>
 
