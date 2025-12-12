@@ -4,9 +4,11 @@
 
 # Hi there, I'm Ahmed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### 👨‍💻 Full Stack Developer | Flutter Enthusiast | Tech Explorer
+### 👨‍💻 Flutter & Front-End Developer | ⚛️ Physics Educator
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building scalable mobile and web applications.
+*Based in Mansoura, Dakahlia, Egypt 🇪🇬*
+
+Welcome to my GitHub profile! I am a **Physics graduate** turned **Software Developer**, passionate about building scalable mobile solutions and innovative AI applications. I specialize in combining robust logic with creative design.
 
 </div>
 
@@ -14,11 +16,16 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building scal
 
 ### 🚀 **About Me**
 
-- 🔭 I’m currently working on **Naptah** and **Advanced Mobile Applications**.
-- 🌱 I’m currently learning **AI Integration & Cloud Architecture**.
-- 🛠️ I build with **Flutter, React, and Firebase**.
-- 🥅 2025 Goals: Contribute more to Open Source and master System Design.
-- ⚡ Fun fact: I love turning complex problems into simple, beautiful code.
+I have a unique background in **Theoretical Physics** which gives me a strong analytical foundation for problem-solving in software development.
+
+- 💼 **Experience**: 
+    - **Flutter Developer** (2019–Present): Developing high-performance cross-platform apps.
+    - **Front-End Developer** (2024–Present): Building responsive, accessible web interfaces.
+    - **Physics Educator** (2019–2023): Simplifying complex scientific concepts.
+- � **Currently working on**: **Naptah** (Plant health monitoring) & Advanced Mobile Apps.
+- 🌱 **Learning**: System Design, Cloud Architecture, and AI Integration.
+- 🎓 **Education**: Bachelor's in **Physical Sciences**, Mansoura University (*Very Good with Honour*).
+- ⚡ **Fun fact**: I love turning complex problems into simple, beautiful code.
 
 ---
 
@@ -30,53 +37,52 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building scal
 
 <br/>
 
-<p align="center">
-  <!-- Mobile & Frontend -->
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  
-  <!-- Backend & Cloud -->
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  </a>
-  
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-</p>
+<div align="center">
+
+| **Mobile** | **Front-End** | **AI & Cloud** |
+|:---:|:---:|:---:|
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlebard&logoColor=white) |
+| ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) |
+| MIT App Inventor | JavaScript (ES6+) | Prompt Engineering |
+
+</div>
+
+---
+
+### 🏆 **Featured Projects**
+
+| Project | Role & Tech | Description |
+|:---:|:---|:---|
+| **Naptah** | **Team Leader**<br/>`Flutter` `Firebase` `Gemini API` | 🌱 Plant health monitoring app with disease detection & comprehensive reports. (Aug 2025) |
+| **Trip Tracker** | **Developer**<br/>`Angular` `Ionic` `TypeScript` | 🚕 Web-based, mobile-first ride-sharing application. |
+| **Hakamty** | **Developer**<br/>`Video Analysis` `Firebase` | 🥋 AI-powered karate kata performance evaluation. |
+| **CropCare** | **Developer**<br/>`AI` `Google Cloud` | 🌾 AI-powered plant disease identification and diagnosis application. |
+| **Quzai** | **Developer**<br/>`EdTech` `AI` | 🤖 Educational platform creating safe conversational learning experiences for kids. |
+
+---
+
+### 📜 **Certifications & Training**
+
+- **Front-End & Cross-Platform Mobile Development Track** | *Information Technology Institute (ITI)* - Intensive Training Program (July 2025 - Present)
+- **Global AI Hackathon 2025** | *Participant - Certificate of Participation*
+- **Digital Marketing Fundamentals** | *Google (Maharat Google)*
+- **Front End Development Track** | *Udacity (One Million Arab Coders Initiative)*
 
 ---
 
 ### 📊 **GitHub Stats**
 
 <div align="center">
-
-<a href="https://github.com/Ahmed2300">
+  <a href="https://github.com/Ahmed2300">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ahmed2300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" width="48%" />
-</a>
-<a href="https://github.com/Ahmed2300">
+  </a>
+  <a href="https://github.com/Ahmed2300">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2300&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</a>
-
-<br clear="both"/>
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed2300&theme=tokyonight&hide_border=true" alt="Ahmed's Streak" width="100%"/>
-
+  </a>
+  <br clear="both"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed2300&theme=tokyonight&hide_border=true" alt="Ahmed's Streak" width="100%"/>
 </div>
 
 ---
@@ -84,11 +90,14 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building scal
 ### 📫 **Connect with Me**
 
 <p align="left">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ahmedamrmohamedazam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Ahmed2300">
+    <img src="https://img.shields.io/badge/Portfolio-website-orange?style=for-the-badge&logo=rss&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
