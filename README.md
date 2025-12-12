@@ -1,8 +1,10 @@
 <div align="center">
 
+![Profile Banner](assets/banner.png)
+
 # Hi there, I'm Ahmed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### �‍💻 Full Stack Developer | Flutter Enthusiast | Tech Explorer
+### 👨‍💻 Full Stack Developer | Flutter Enthusiast | Tech Explorer
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building scalable mobile and web applications.
 
@@ -20,9 +22,15 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building scal
 
 ---
 
-### 🛠️ **Tech Stack**
+### 🛠️ **Tech Stack & Specialties**
 
-<p align="left">
+<div align="center">
+  <img src="assets/showcase.png" width="80%" alt="Mobile AI Showcase" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
+</div>
+
+<br/>
+
+<p align="center">
   <!-- Mobile & Frontend -->
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
