@@ -73,6 +73,7 @@ I have a unique background in **Theoretical Physics** which gives me a strong an
 
 ### 📊 **GitHub Stats**
 
+
 <div align="center">
   <img src="assets/stats_trophies.png" alt="Plush Trophy Shelf" width="90%" style="border-radius: 15px;"/>
 </div>
