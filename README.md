@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](assets/banner_plush.png)
+![Profile Banner](assets/final_banner.png)
 
 # Hi there, I'm Ahmed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -32,7 +32,7 @@ I have a unique background in **Theoretical Physics** which gives me a strong an
 ### 🛠️ **Tech Stack & Specialties**
 
 <div align="center">
-  <img src="assets/showcase_plush.png" width="80%" alt="Mobile AI Showcase" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
+  <img src="assets/final_showcase.png" width="80%" alt="Mobile AI Showcase" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
 </div>
 
 <br/>
@@ -74,15 +74,15 @@ I have a unique background in **Theoretical Physics** which gives me a strong an
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="assets/stats_trophies_plush.png" alt="Plush Trophy Shelf" width="90%" style="border-radius: 15px;"/>
+  <img src="assets/final_stats_trophies.png" alt="Plush Trophy Shelf" width="90%" style="border-radius: 15px;"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-  <img src="assets/stats_overview_plush.png" height="180" alt="Plush Stats Dashboard" style="border-radius: 15px; margin: 5px;"/>
-  <img src="assets/stats_languages_plush.png" height="180" alt="Plush Languages Pie" style="border-radius: 15px; margin: 5px;"/>
+  <img src="assets/final_stats_overview.png" height="180" alt="Plush Stats Dashboard" style="border-radius: 15px; margin: 5px;"/>
+  <img src="assets/final_stats_languages.png" height="180" alt="Plush Languages Pie" style="border-radius: 15px; margin: 5px;"/>
 
   <br/>
 
