@@ -74,17 +74,15 @@ I have a unique background in **Theoretical Physics** which gives me a strong an
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed2300&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  <img src="assets/stats_trophies.png" alt="Plush Trophy Shelf" width="90%" style="border-radius: 15px;"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-  <a href="https://github.com/Ahmed2300">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahmed2300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  </a>
-  <a href="https://github.com/Ahmed2300">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2300&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  </a>
+  <img src="assets/stats_overview.png" height="180" alt="Plush Stats Dashboard" style="border-radius: 15px; margin: 5px;"/>
+  <img src="assets/stats_languages.png" height="180" alt="Plush Languages Pie" style="border-radius: 15px; margin: 5px;"/>
 
   <br/>
 
